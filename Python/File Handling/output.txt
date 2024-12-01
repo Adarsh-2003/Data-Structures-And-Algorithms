@@ -1,0 +1,23 @@
+Two roads diverged in a yellow wood,
+WordCount : 7 And sorry I could not travel both
+WordCount : 7 And be one traveler, long I stood
+WordCount : 7 And looked down one as far as I could
+WordCount : 9 To where it bent in the undergrowth;
+WordCount : 7 
+WordCount : 1 Then took the other, as just as fair,
+WordCount : 8 And having perhaps the better claim,
+WordCount : 6 Because it was grassy and wanted wear;
+WordCount : 7 Though as for that the passing there
+WordCount : 7 Had worn them really about the same,
+WordCount : 7 
+WordCount : 1 And both that morning equally lay
+WordCount : 6 In leaves no step had trodden black.
+WordCount : 7 Oh, I kept the first for another day!
+WordCount : 8 Yet knowing how way leads on to way,
+WordCount : 8 I doubted if I should ever come back.
+WordCount : 8 
+WordCount : 1 I shall be telling this with a sigh
+WordCount : 8 Somewhere ages and ages hence:
+WordCount : 5 Two roads diverged in a wood, and I—
+WordCount : 8 I took the one less traveled by,
+WordCount : 7 And that has made all the difference.WordCount : 7 
