@@ -6,3 +6,5 @@ while (num != 0):
     rev_num = rev_num * 10 + digit
     num = num // 10 # floor division = //
 print(rev_num)
+
+# % gets the remainder

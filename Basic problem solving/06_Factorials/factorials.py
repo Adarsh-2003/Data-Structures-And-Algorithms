@@ -11,3 +11,8 @@ def factorial(x):
         print(fact)
 
 factorial(x)
+
+# 1st way
+# run a loop till that number and keep storing factorial in a vaiable
+
+# 2nd way is recursion
