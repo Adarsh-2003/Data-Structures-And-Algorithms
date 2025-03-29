@@ -4,17 +4,22 @@ class bank:
         self.account_no = acc
 
     def get_balance(self):
-        return self.balance
+        print("Remaining balance : Rs", self.balance)
     
     def credit(self, amount):
         self.balance += amount
-        print(amount, "has been credited from your account", self.account_no)
-        print("Remaining balance :", self.get_balance())
+        print(f"Rs {amount} has been credited to your account XXXXX{self.account_no}")
+        self.get_balance()
 
     def debit(self, amount):
-        self.balance -= amount
-        print(amount, "has been debited from your account", self.account_no)
-        print("Remaining balance :", self.balance())
-
-c1 = bank(100, 5214)
-c1.credit(200)
+        if  amount > self.balance:
+            print("Insufficient balance")
+            self.get_balance()
+        else:
+            self.balance -= amount
+            print(f"Rs {amount} has been debited from your account XXXXX{self.account_no}")
+            self.get_balance()
+# balance , acc number
+c1 = bank(500, 5214)
+# c1.credit(200)
+c1.debit(100)
