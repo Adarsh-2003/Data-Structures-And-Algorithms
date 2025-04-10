@@ -20,3 +20,4 @@ class programmer(employee):
     def __init__(self,name,id,lang):
         super().__init__(name,id)
         self.lang = lang
+
