@@ -8,7 +8,7 @@ for x in fruits:
 
 print(newlist)
 
-# rather us this
+# rather us this using list comprehension
 
 fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 newlist1 = [x for x in fruits if "a" in x]
