@@ -19,3 +19,8 @@ def double(val):
 
 res = list(map(double, a))
 print(res) # [2, 4, 6, 8]
+
+# int to str of a list
+nums = [1,2,3]
+result = map(str, nums)
+print(list(result))
