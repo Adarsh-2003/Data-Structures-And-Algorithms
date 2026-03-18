@@ -10,7 +10,7 @@ try :
 
     def age_check(inp):
         if not 0 <= inp <= 120:
-            raise ValueError("That's not a human age")
+            raise ValueError("That's not a human age!")
         
     age_check(inp)
 
